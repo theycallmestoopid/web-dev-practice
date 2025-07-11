@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #DFD5A5;
+}
+
+h1 {
+    font-family: 'Dancing Script';
+    text-align: center;
+    font-size: 6rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    background-color: #DBAD6A;
+}
+
+img {
+    margin: 1rem;
+    height: 400px;
+    border-radius: 1rem;
+}
+
+.content {
+    height: auto;
+    width: 850px;
+    float: right; 
+    margin: 0rem;
+}
+
+.Ingridents, .Steps, .Description {
+    font-size: 1rem;
+    border-radius: 1rem;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    margin: 1rem;
+    background-color: #DBAD6A;
+}
+
+h3 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+footer {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+a {
+    color: black;
+    font-size: 1.5rem;
+}
