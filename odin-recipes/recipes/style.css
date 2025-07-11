@@ -20,37 +20,28 @@ h1 {
 }
 
 img {
-    margin: 1rem;
-    height: 400px;
+    margin: 1rem 1% 1rem 1%;
+    width: 38%;
     border-radius: 1rem;
+    float: left;
 }
 
 .content {
     height: auto;
-    width: 850px;
+    width: 58%;
     float: right; 
-    margin: 0rem;
+    margin: 1rem 1% 1rem 1%;
 }
 
 .Ingridents, .Steps, .Description {
     font-size: 1rem;
     border-radius: 1rem;
     padding: 0.5rem 2rem 0.5rem 2rem;
-    margin: 1rem;
+    margin: 0rem 0rem 1rem 0rem;
     background-color: #DBAD6A;
 }
 
 h3 {
     font-size: 2rem;
     margin-bottom: 0.5rem;
-}
-
-footer {
-    margin-top: 2rem;
-    text-align: center;
-}
-
-a {
-    color: black;
-    font-size: 1.5rem;
 }
