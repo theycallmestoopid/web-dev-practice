@@ -80,3 +80,38 @@ button {
 .right img {
     height: 200px;
 }
+
+.item2 {
+    padding: 16px 10% 16px 10%;
+}
+
+h2 {
+    text-align: center;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    margin: 16px;
+}
+
+.info-boxes {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+    color: #1F2937
+}
+
+.box img {
+    border-radius: 8px;
+    border: 3px solid #3882F6;
+    height: 100px;
+    width: 100px;
+}
